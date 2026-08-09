@@ -7,7 +7,7 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>shahin-glitch ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -31,12 +31,16 @@
 
 <h3><code>shahin-glitch@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shahin6610)
+[![GitHub](https://img.shields.io/badge/GitHub-avivashishta29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
+[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shain_muhd)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com) -->
+
+<!-- [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
 
 <br>
 
