@@ -33,6 +33,7 @@
 
 <p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫</b></p>
 
+<<<<<<< HEAD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shahin6610)
 [![GitHub](https://img.shields.io/badge/GitHub-avivashishta29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
@@ -42,6 +43,19 @@
 
 <!-- [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
 
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
+<!--[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)-->
+[![Mail](https://img.shields.io/badge/Mail-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedshahin6610@gmail.com)
+
+
+>>>>>>> ec7db60 (solid  updated)
+
+
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MohammedShahin-g3d)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
 <br>
 
 </div>
