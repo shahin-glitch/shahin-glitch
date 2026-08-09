@@ -35,9 +35,7 @@
 
 <<<<<<< HEAD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shahin6610)
-[![GitHub](https://img.shields.io/badge/GitHub-avivashishta29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shain_muhd)
+
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com) -->
 
@@ -50,7 +48,7 @@
 [![Mail](https://img.shields.io/badge/Mail-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedshahin6610@gmail.com)
 
 
->>>>>>> ec7db60 (solid  updated)
+
 
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MohammedShahin-g3d)
