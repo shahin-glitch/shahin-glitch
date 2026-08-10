@@ -79,28 +79,84 @@
 
 
 <!-- HERE WE GO -->
-
 <table>
 <tr>
-<td width="380">
+<td width="50%">
 
-<h3>🍰 Cake House</h3>
+<h3>🍰 The Cake House</h3>
 
 <sub>HTML • CSS • JavaScript</sub>
 
 <br><br>
 
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/⚡%20LIVE%20DEMO-39FF14?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/◯%20VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=39FF14" />
+</td>
+
+<td width="50%">
+
+<h3>💰 CPP Expense Tracker</h3>
+
+<sub>C++</sub>
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shahin-glitch/CPP-expense-tracker">
+<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🤖 Shahin Siju Funny Chatbot</h3>
+
+<sub>JavaScript</sub>
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shahin-glitch/Shahin_siju_Funny_Chatbot">
+<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>⚛️ My React App</h3>
+
+<sub>React • JavaScript</sub>
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shahin-glitch/my-react-app">
+<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
+
 
 <!-- till here-->
 <h3><code>----------./links.sh----------</code></h3>
