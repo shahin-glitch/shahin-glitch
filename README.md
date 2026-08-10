@@ -81,13 +81,27 @@
 
 
 
-## ✦ Featured Projects
+<!-- ========================= -->
+<!--      FEATURED PROJECTS    -->
+<!-- ========================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:071a12,50:0b3d2e,100:001a12&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=32&fontColor=7CFFB2&animation=fadeIn"
-  />
-</p>
+<div align="center">
+
+  <h2>
+    ✦ <span style="color:#9EFF3B;">FEATURED PROJECTS</span> ✦
+  </h2>
+
+  <h1>
+    Things I've <span style="color:#9EFF3B;">Built</span>
+  </h1>
+
+  <p>
+    A collection of projects that showcase my skills in
+    <b>full-stack development</b>, problem solving,
+    and building <span style="color:#9EFF3B;">real-world solutions</span>.
+  </p>
+
+</div>
 
 <br>
 
@@ -96,79 +110,139 @@
 
 <td width="50%" valign="top">
 
-<div align="center">
+### 🧁 Cake House Website
 
-<img
-  src="./assets/spendwise.png"
-  width="100%"
-  style="border-radius:16px;"
-/>
-
-### ◈ SpendWise
-
-**Smart Expense Management**
-
-A full-stack application for tracking,
-organizing and understanding expenses.
+E-commerce cake ordering platform with
+cart, offers, reviews and responsive design.
 
 <br>
 
-`React` · `Node.js` · `Express` · `MongoDB`
+**Tech**
 
-<br><br>
+`HTML` `CSS` `JavaScript`
 
-<a href="YOUR_LIVE_URL">
-<img src="https://img.shields.io/badge/◉_LIVE_DEMO-39FF88?style=for-the-badge&labelColor=071A12&color=0B3D2E">
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-9EFF3B?style=for-the-badge&logoColor=black">
 </a>
 
 &nbsp;
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/⌘_SOURCE-7C5CFF?style=for-the-badge&labelColor=120A2A&color=382080">
+<a href="https://github.com/shahin-glitch/the.cake.house">
+<img src="https://img.shields.io/badge/VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+### 💰 SpendWise
 
-<img
-  src="./assets/cakenhouse.png"
-  width="100%"
-/>
-
-### ◈ The Cake House
-
-**Modern E-Commerce Experience**
-
-Responsive cake ordering website with
-cart, wishlist, offers and reviews.
+Full-stack expense tracker designed to
+manage daily expenses, authentication and analytics.
 
 <br>
 
-`HTML` · `CSS` · `JavaScript`
+**Tech**
 
-<br><br>
+`MERN Stack` `Charts` `Authentication`
 
-<a href="YOUR_LIVE_URL">
-<img src="https://img.shields.io/badge/◉_LIVE_DEMO-39FF88?style=for-the-badge&labelColor=071A12&color=0B3D2E">
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-9EFF3B?style=for-the-badge&logoColor=black">
 </a>
 
 &nbsp;
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/⌘_SOURCE-7C5CFF?style=for-the-badge&labelColor=120A2A&color=382080">
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ CodeNex
+
+Digital solutions for businesses and
+modern web applications.
+
+<br>
+
+**Tech**
+
+`Next.js` `Tailwind` `MongoDB`
+
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-9EFF3B?style=for-the-badge&logoColor=black">
+</a>
+
+&nbsp;
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎂 The Cake House
+
+Responsive cake website featuring
+offers, wishlist, cart and product browsing.
+
+<br>
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-9EFF3B?style=for-the-badge&logoColor=black">
+</a>
+
+&nbsp;
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<!-- ========================= -->
+<!--       MORE PROJECTS        -->
+<!-- ========================= -->
+
+<div align="center">
+
+### <span style="color:#9EFF3B;">✦</span> Want to see more?
+
+<p>
+Check out my repositories for more projects,
+experiments and code.
+</p>
+
+<a href="https://github.com/shahin-glitch?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-9EFF3B?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</div>
 
 
 
