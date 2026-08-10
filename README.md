@@ -98,7 +98,19 @@ Building things that solve <b>real problems</b>.
 </div>
 
 <br>
+<br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9EFF3B">
+
+<br><br>
+
+<a href="https://github.com/shahin-glitch?tab=repositories">
+<img src="https://img.shields.io/badge/✦%20EXPLORE%20MORE%20PROJECTS-9EFF3B?style=for-the-badge&logoColor=black">
+</a>
+
+</div>
 
 
 <h3><code>----------./links.sh----------</code></h3>
