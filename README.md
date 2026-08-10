@@ -78,44 +78,116 @@
 <br>
 
 
-
-
-
-<br><br>
+<!-- HERE WE GO -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9EFF3B">
-
-<br>
-
-<h2>✦ FEATURED PROJECTS ✦</h2>
-
-<p>
-Building things that solve <b>real problems</b>.
-</p>
+### ✦ FEATURED PROJECTS ✦
 
 </div>
 
-<br>
-<br>
+<table align="center">
+<tr>
+
+<td width="50%">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9EFF3B">
+### 🧁 Cake House Website
 
-<br><br>
+`HTML` · `CSS` · `JavaScript`
 
-<a href="https://github.com/shahin-glitch?tab=repositories">
-<img src="https://img.shields.io/badge/✦%20EXPLORE%20MORE%20PROJECTS-9EFF3B?style=for-the-badge&logoColor=black">
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
+</td>
 
+<td width="50%">
+
+<div align="center">
+
+### 💰 SpendWise
+
+`React` · `Node.js` · `MongoDB`
+
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<div align="center">
+
+### ⚡ CodeNex
+
+`Next.js` · `Tailwind` · `MongoDB`
+
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+### 🎂 The Cake House
+
+`HTML` · `CSS` · `JavaScript`
+
+<br>
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<!-- till here-->
 <h3><code>----------./links.sh----------</code></h3>
 
-<p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫 . AI Solutions</b></p>
+<p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫 . AI Solutions🧩</b></p>
 
 
 
