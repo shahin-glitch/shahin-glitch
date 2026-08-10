@@ -81,29 +81,19 @@
 <!-- HERE WE GO -->
 <div align="center">
 
-## ✦ Featured Projects
+### ✦ Featured Projects
 
-**🍰 The Cake House**  
-`E-Commerce` · `Cart` · `Wishlist` · `Offers` · `Reviews`  
-<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
+**🍰 The Cake House** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
+`Cart` · `Wishlist` · `Offers` · `Reviews`
 
-<br><br>
+**🤖 Shahin Siju Chatbot** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
+`Interactive Chat` · `Dynamic Replies` · `Smart UI`
 
-**🤖 Shahin Siju Chatbot**  
-`Chatbot` · `Interactive UI` · `Dynamic Responses`  
-<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
+**💰 Expense Tracker** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
+`Expense Tracking` · `Records` · `Analytics`
 
-<br><br>
-
-**💰 Expense Tracker**  
-`Expense Management` · `Records` · `Analytics` · `C++`  
-<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
-
-<br><br>
-
-**⚛️ React App**  
-`React` · `Components` · `Responsive UI` · `JavaScript`  
-<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
+**⚛️ React App** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
+`Components` · `Modern UI` · `Responsive`
 
 </div>
 
