@@ -79,91 +79,33 @@
 
 
 <!-- HERE WE GO -->
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+## ✦ Featured Projects
 
-<h3>🍰 The Cake House</h3>
-
-<sub>HTML • CSS • JavaScript</sub>
-
-<br><br>
-
-<b>Features</b><br>
-🛒 Cart & Wishlist • ⭐ Reviews • 🎁 Offers • 📱 Responsive
+**🍰 The Cake House**  
+`E-Commerce` · `Cart` · `Wishlist` · `Offers` · `Reviews`  
+<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
 
 <br><br>
 
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>💰 CPP Expense Tracker</h3>
-
-<sub>C++</sub>
+**🤖 Shahin Siju Chatbot**  
+`Chatbot` · `Interactive UI` · `Dynamic Responses`  
+<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
 
 <br><br>
 
-<b>Features</b><br>
-💵 Expense Tracking • 📊 Records • 🔍 Search • ⚡ Fast & Simple
+**💰 Expense Tracker**  
+`Expense Management` · `Records` · `Analytics` · `C++`  
+<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
 
 <br><br>
 
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
-</a>
+**⚛️ React App**  
+`React` · `Components` · `Responsive UI` · `JavaScript`  
+<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>🤖 Shahin Siju Funny Chatbot</h3>
-
-<sub>JavaScript</sub>
-
-<br><br>
-
-<b>Features</b><br>
-💬 Interactive Chat • 😂 Funny Responses • ⚡ Dynamic UI
-
-<br><br>
-
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>⚛️ My React App</h3>
-
-<sub>React • JavaScript</sub>
-
-<br><br>
-
-<b>Features</b><br>
-⚛️ Component Based • 🎨 Modern UI • 📱 Responsive • ⚡ Fast
-
-<br><br>
-
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 
 <!-- till here-->
