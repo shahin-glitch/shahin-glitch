@@ -93,7 +93,7 @@
 
 **🍰 The Cake House**
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="https://the-cake-house.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
 </a>
 
@@ -101,9 +101,9 @@
 
 <td align="center">
 
-**🤖 Shahin Siju Chatbot**
+**🤖 Shahin Siu Chatbot**
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="https://shahin-siu-chatbot.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
 </a>
 
@@ -115,7 +115,7 @@
 
 **💰 Expense Tracker**
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="https://expense-tracker.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
 </a>
 
@@ -125,7 +125,7 @@
 
 **⚛️ React App**
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="https://react-app.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
 </a>
 
