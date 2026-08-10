@@ -55,6 +55,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
 
 -->
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/API_Integration-111827?style=flat-square&logo=fastapi&logoColor=009688" />
+</p>
+
+
+
+
+
 
 
 <!-- New code -->
