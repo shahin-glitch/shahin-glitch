@@ -80,107 +80,25 @@
 
 <!-- HERE WE GO -->
 
-<div align="center">
-
-### ✦ FEATURED PROJECTS ✦
-
-</div>
-
-<table align="center">
+<table>
 <tr>
+<td width="380">
 
-<td width="50%">
+<h3>🍰 Cake House</h3>
 
-<div align="center">
+<sub>HTML • CSS • JavaScript</sub>
 
-### 🧁 Cake House Website
-
-`HTML` · `CSS` · `JavaScript`
-
-<br>
+<br><br>
 
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/⚡%20LIVE%20DEMO-39FF14?style=for-the-badge&logoColor=black" />
 </a>
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/◯%20VIEW%20REPO-111111?style=for-the-badge&logo=github&logoColor=39FF14" />
 </a>
-
-</div>
 
 </td>
-
-<td width="50%">
-
-<div align="center">
-
-### 💰 SpendWise
-
-`React` · `Node.js` · `MongoDB`
-
-<br>
-
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
-</a>
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<div align="center">
-
-### ⚡ CodeNex
-
-`Next.js` · `Tailwind` · `MongoDB`
-
-<br>
-
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
-</a>
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<div align="center">
-
-### 🎂 The Cake House
-
-`HTML` · `CSS` · `JavaScript`
-
-<br>
-
-<a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-39FF14?style=for-the-badge&logoColor=black">
-</a>
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/◉%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-</td>
-
 </tr>
 </table>
 
