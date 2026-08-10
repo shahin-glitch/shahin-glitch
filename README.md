@@ -78,50 +78,97 @@
 <br>
 
 
-## Featured Projects
+
+
+
+## ✦ Featured Projects
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:071a12,50:0b3d2e,100:001a12&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=32&fontColor=7CFFB2&animation=fadeIn"
+  />
+</p>
+
+<br>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🚀 CodeNex
+<div align="center">
 
-Modern digital solutions and web development.
+<img
+  src="./assets/spendwise.png"
+  width="100%"
+  style="border-radius:16px;"
+/>
 
-**React · Next.js · Node.js · MongoDB**
+### ◈ SpendWise
 
-<a href="YOUR_LIVE_DEMO_URL">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+**Smart Expense Management**
+
+A full-stack application for tracking,
+organizing and understanding expenses.
+
+<br>
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+<br><br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/◉_LIVE_DEMO-39FF88?style=for-the-badge&labelColor=071A12&color=0B3D2E">
 </a>
 
-<a href="YOUR_GITHUB_REPO_URL">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/⌘_SOURCE-7C5CFF?style=for-the-badge&labelColor=120A2A&color=382080">
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💰 SpendWise
+<div align="center">
 
-Full-stack expense tracking application.
+<img
+  src="./assets/cakenhouse.png"
+  width="100%"
+/>
 
-**React · Node.js · Express · MongoDB**
+### ◈ The Cake House
 
-<a href="YOUR_LIVE_DEMO_URL">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+**Modern E-Commerce Experience**
+
+Responsive cake ordering website with
+cart, wishlist, offers and reviews.
+
+<br>
+
+`HTML` · `CSS` · `JavaScript`
+
+<br><br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/◉_LIVE_DEMO-39FF88?style=for-the-badge&labelColor=071A12&color=0B3D2E">
 </a>
 
-<a href="YOUR_GITHUB_REPO_URL">
-  <img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/⌘_SOURCE-7C5CFF?style=for-the-badge&labelColor=120A2A&color=382080">
 </a>
+
+</div>
 
 </td>
+
 </tr>
 </table>
-
-
-
 
 
 
