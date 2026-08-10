@@ -22,14 +22,14 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>shahin-glitch@github ~ $ ./contributions.sh</code></h3>
+<h3><code>shahin-glitch/github ~ $ ./live/contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="shahin-glitch's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>shahin-glitch $kills </code></h3>
+<h3><code>----------$kills---------- </code></h3>
 
 <!-- Skill section -->
 <p>
@@ -77,7 +77,45 @@
 <br>
 <br>
 
-<h3><code>shahin-glitch@github ~ $ ./links.sh</code></h3>
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=for-the-badge" />
+→
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge" />
+→
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" />
+→
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge" />
+→
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" />
+→
+<img src="https://img.shields.io/badge/API%20Architecture-111827?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+→
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+→
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+→
+<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
+
+</p>
+
+
+
+
+
+
+<h3><code>----------./links.sh----------</code></h3>
 
 <p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫 . AI Solutions</b></p>
 
