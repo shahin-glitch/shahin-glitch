@@ -224,3 +224,13 @@
 <br>
 
 </div>
+
+
+
+<br>
+
+<div align="center">
+
+© 2026 Mohammed Shahin · All Rights Reserved
+
+</div>
