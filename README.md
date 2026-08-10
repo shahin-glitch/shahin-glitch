@@ -29,6 +29,52 @@
 <br>
 <br>
 
+<h3><code>shahin-glitch $kills </code></h3>
+
+<!-- Skill section -->
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/API_Integration-111827?style=flat-square&logo=fastapi&logoColor=009688" />
+</p>
+
+### Database & Development
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Version_Control-111827?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=54C5F8" />
+</p>
+
+
 <h3><code>shahin-glitch@github ~ $ ./links.sh</code></h3>
 
 <p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫</b></p>
@@ -55,12 +101,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
 
 -->
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/API_Integration-111827?style=flat-square&logo=fastapi&logoColor=009688" />
-</p>
+
 
 
 
