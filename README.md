@@ -78,37 +78,36 @@
 <br>
 
 
-## Currently Learning
+## Featured Projects
 
-<p align="center">
+### 🚀 CodeNex
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=for-the-badge" />
-→
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge" />
-→
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" />
-→
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+A digital development initiative focused on creating modern websites
+and digital solutions for businesses.
 
-<br><br>
+**Tech:** React · Next.js · Node.js · MongoDB
 
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge" />
-→
-<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" />
-→
-<img src="https://img.shields.io/badge/API%20Architecture-111827?style=for-the-badge" />
+[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
 
-<br><br>
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-→
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-→
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-→
-<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
+### 💰 SpendWise
 
-</p>
+A full-stack expense tracker for managing and understanding personal
+spending.
+
+**Tech:** React · Node.js · Express · MongoDB
+
+[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
+
+
+### 🍰 The Cake House
+
+A responsive e-commerce-style website with products, categories,
+cart, wishlist, offers and reviews.
+
+**Tech:** HTML · CSS · JavaScript
+
+[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
 
 
 
