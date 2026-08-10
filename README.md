@@ -80,34 +80,45 @@
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚀 CodeNex
 
-A digital development initiative focused on creating modern websites
-and digital solutions for businesses.
+Modern digital solutions and web development.
 
-**Tech:** React · Next.js · Node.js · MongoDB
+**React · Next.js · Node.js · MongoDB**
 
-[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
+<a href="YOUR_LIVE_DEMO_URL">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
+<a href="YOUR_GITHUB_REPO_URL">
+  <img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 💰 SpendWise
 
-A full-stack expense tracker for managing and understanding personal
-spending.
+Full-stack expense tracking application.
 
-**Tech:** React · Node.js · Express · MongoDB
+**React · Node.js · Express · MongoDB**
 
-[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
+<a href="YOUR_LIVE_DEMO_URL">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
+<a href="YOUR_GITHUB_REPO_URL">
+  <img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🍰 The Cake House
-
-A responsive e-commerce-style website with products, categories,
-cart, wishlist, offers and reviews.
-
-**Tech:** HTML · CSS · JavaScript
-
-[🌐 Live Demo](YOUR_LIVE_DEMO_URL) · [📂 Source Code](YOUR_GITHUB_REPO_URL)
+</td>
+</tr>
+</table>
 
 
 
