@@ -83,17 +83,51 @@
 
 ### ✦ Featured Projects
 
-**🍰 The Cake House**  
-<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
+<table>
+<tr>
+<td align="center">
 
-**🤖 Shahin Siju Chatbot**  
-<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
+**🍰 The Cake House**
 
-**💰 Expense Tracker**  
-<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
+</a>
 
-**⚛️ React App**  
-<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
+</td>
+
+<td align="center">
+
+**🤖 Shahin Siju Chatbot**
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**💰 Expense Tracker**
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
+</a>
+
+</td>
+
+<td align="center">
+
+**⚛️ React App**
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live%20Demo-39FF14?style=flat-square&logoColor=black">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
