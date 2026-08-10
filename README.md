@@ -83,17 +83,17 @@
 
 ### ✦ Featured Projects
 
-**🍰 The Cake House** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
-`Cart` · `Wishlist` · `Offers` · `Reviews`
+**🍰 The Cake House**  
+<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
 
-**🤖 Shahin Siju Chatbot** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
-`Interactive Chat` · `Dynamic Replies` · `Smart UI`
+**🤖 Shahin Siju Chatbot**  
+<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
 
-**💰 Expense Tracker** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
-`Expense Tracking` · `Records` · `Analytics`
+**💰 Expense Tracker**  
+<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
 
-**⚛️ React App** &nbsp; <a href="YOUR_LINK">↗ Live Demo</a>  
-`Components` · `Modern UI` · `Responsive`
+**⚛️ React App**  
+<a href="YOUR_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/LIVE%20DEMO-39FF14?style=flat-square&logoColor=black"></a>
 
 </div>
 
