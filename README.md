@@ -65,28 +65,32 @@
 
 <div align="center">
 
-### `~/shahin $ connect`
+### `~/shahin $ connect with me`
 
 <a href="https://linkedin.com/in/mohammed-shahin6610">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/shain_muhd">
-<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:mohammedshahin6610@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@MohammedShahin-g3d">
-<img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/shahin-glitch">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
+<a href="https://me.developers.google.com/u/shahin6610">
+  <img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=flat-square&logo=google&logoColor=white" />
+</a>
+</div>
 <br>
 
 <sub>
