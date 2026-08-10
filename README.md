@@ -33,7 +33,6 @@
 
 <p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫</b></p>
 
-<<<<<<< HEAD
 
 
 
@@ -42,11 +41,11 @@
 <!-- [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shahin6610)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shahin6610)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shain_muhd)
 <!--[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)-->
-[![Mail](https://img.shields.io/badge/Mail-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedshahin6610@gmail.com)
-
+<!--[![Mail](https://img.shields.io/badge/Mail-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedshahin6610@gmail.com)
+-- >
 
 
 
@@ -54,6 +53,52 @@
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MohammedShahin-g3d)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahin-glitch)
+
+-->
+
+
+<!-- New code -->
+
+
+
+
+
+<div align="center">
+
+### `~/shahin $ connect`
+
+<a href="https://linkedin.com/in/mohammed-shahin6610">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/shain_muhd">
+<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F" />
+</a>
+&nbsp;
+<a href="mailto:mohammedshahin6610@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@MohammedShahin-g3d">
+<img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" />
+</a>
+&nbsp;
+<a href="https://github.com/shahin-glitch">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" />
+</a>
+
+<br>
+
+<sub>
+<span>●</span> Open to collaboration &nbsp; • &nbsp; AI/ML &nbsp; • &nbsp; Full-Stack
+</sub>
+
+</div>
+
+
+
+
+
 <br>
 
 </div>
