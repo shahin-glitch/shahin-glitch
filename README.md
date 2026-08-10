@@ -73,11 +73,13 @@
 <p>
   <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=54C5F8" />
 </p>
-
+<br>
+<br>
+<br>
 
 <h3><code>shahin-glitch@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫</b></p>
+<p><b>Fullstack Developer🧑‍💻 · AI Builder🤖 · Instructor🧑‍🏫 . AI Solutions</b></p>
 
 
 
@@ -146,7 +148,7 @@
 <br>
 
 <sub>
-<span>●</span> Open to collaboration &nbsp; • &nbsp; AI/ML &nbsp; • &nbsp; Full-Stack
+<span>●</span> Open to collaboration &nbsp; • &nbsp; AI/ML &nbsp; • &nbsp; Full-Stack; • &nbsp; DM to collaborate &nbsp
 </sub>
 
 </div>
