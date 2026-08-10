@@ -81,6 +81,7 @@
 <!-- HERE WE GO -->
 <table>
 <tr>
+
 <td width="50%">
 
 <h3>🍰 The Cake House</h3>
@@ -89,12 +90,13 @@
 
 <br><br>
 
+<b>Features</b><br>
+🛒 Cart & Wishlist • ⭐ Reviews • 🎁 Offers • 📱 Responsive
+
+<br><br>
+
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
@@ -107,18 +109,21 @@
 
 <br><br>
 
+<b>Features</b><br>
+💵 Expense Tracking • 📊 Records • 🔍 Search • ⚡ Fast & Simple
+
+<br><br>
+
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/shahin-glitch/CPP-expense-tracker">
-<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 <h3>🤖 Shahin Siju Funny Chatbot</h3>
@@ -127,12 +132,13 @@
 
 <br><br>
 
+<b>Features</b><br>
+💬 Interactive Chat • 😂 Funny Responses • ⚡ Dynamic UI
+
+<br><br>
+
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/shahin-glitch/Shahin_siju_Funny_Chatbot">
-<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
@@ -145,15 +151,17 @@
 
 <br><br>
 
+<b>Features</b><br>
+⚛️ Component Based • 🎨 Modern UI • 📱 Responsive • ⚡ Fast
+
+<br><br>
+
 <a href="YOUR_LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-View-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/shahin-glitch/my-react-app">
-<img src="https://img.shields.io/badge/View_Repo-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00ff66?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
